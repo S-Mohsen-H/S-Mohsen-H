@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohsen
 - 👀 I’m interested in Electronics, Electronic Engineering, IT, Video Games,...
-- 🌱 I’m currently learning Altium Designer
+- 🌱 I’m currently learning Embedded Systems
 - 💞️ I’m looking to collaborate on Electronics and Electronic Engineering
 - 📫 My Linkedin: https://www.linkedin.com/in/s-mohsen-hosainy-984412209/
 
